@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Logic Connections – Números</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Pantalla inicio -->
+<div id="start-screen">
+  <div class="modal">
+    <h1>SEGUNDA PARTE: MATH LOGIC PUZZLE</h1>
+    <ul>
+      <li>Cada letra tiene un número del 1 al 21.</li>
+      <li>Usá las pistas para descubrirlos.</li>
+      <li>Las pistas desbloqueadas aparecerán en el panel lateral.</li>
+      <li>Clickear el link en el nombre de la pista para obtenerla.</li>
+      <li>No es necesario adivinar.</li>
+    </ul>
+    <button id="start-game">Comenzar</button>
+  </div>
+</div>
+
+<!-- Juego -->
+<div id="game-screen" class="hidden">
+
+  <div id="layout">
+
+    <!-- Zona de juego -->
+    <div id="game-area">
+      <div id="play-area">
+        <svg id="connections-layer"></svg>
+      </div>
+
+      <div id="controls">
+        <input id="number-input" type="number" min="1" max="21" placeholder="Número">
+        <button id="assign-btn" disabled>Asignar</button>
+        <button id="clear-btn">Deseleccionar</button>
+      </div>
+
+      <div id="current-clue"></div>
+    </div>
+
+    <!-- Panel lateral -->
+    <div id="clues-panel">
+      <h3>Pistas descubiertas</h3>
+      <ul id="clues-list"></ul>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- Final -->
+<div id="end-screen" class="hidden">
+  <div class="modal">
+    <h1>🎉 AHORA SÍ, GANASTE 🎉</h1>
+
+    <p>Descubriste todos los números</p>
+    <p>Ahora podés reclamar tu premio</p>
+
+    <div class="voucher">VALE POR UN REGALO</div>
+
+    <div class="bonus-track">
+      <p>Bonus track: te dejamos el link de los videos por si querés revisitarlos:</p>
+      <a href="https://drive.google.com/drive/folders/1IOkjG2bnCnUPRNakCxvnaAgEf8UUQOM0?usp=drive_link" 
+         target="_blank">
+        Ver videos
+      </a><!-- CAMBIAR LINK -->
+    </div>
+
+    <div class="signature">
+      Con cariño, te queremos, *cambiar* ❤️
+    </div>
+  </div>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Logic Connections Puzzle</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Pantalla de inicio -->
+
+
+<div id="start-screen">
+  <div class="modal">
+    <h1>LUCA'S MATH LOGIC CONNECTIONS</h1>
+    <ul>
+      <li>En el juego, hay 21 letras {a,b,c,...,u} y una relación definida en ese conjunto</li>
+      <li>El objetivo es descubrir todas las conexiones (los elementos relacionados) entre las letras.</li>
+      <li>Usá las pistas para descubrirlas.</li>
+      <li>Cada conexión que descubras desbloquea una pista.</li>
+      <li>Clickeá el link en el nombre de la pista para obtenerla.</li>
+      <li>No es necesario adivinar.</li>
+    </ul>
+    <button id="start-game">Comenzar</button>
+  </div>
+</div>
+
+<!-- Pantalla de juego -->
+<div id="game-screen" class="hidden">
+
+  <div id="play-area">
+    <svg id="connections-layer"></svg>
+  </div>
+
+  <div id="controls">
+    <p id="status">Seleccioná una letra</p>
+    <button id="connect-btn" disabled>Intentar conexión</button>
+    <button id="self-btn" disabled>Unir consigo misma</button>
+    <button id="clear-btn">Deseleccionar</button>
+  </div>
+  <div id="clues-panel">
+    <h3>Pistas descubiertas</h3>
+
+    
+
+    <ul id="clues-list"></ul>
+  </div>
+  <div id="current-clue"></div>
+</div>
+
+
+<!-- Pantalla final -->
+<div id="end-screen" class="hidden">
+  <div id="end-content">
+    <h1>🎉 COMPLETASTE... 🎉</h1>
+    <p>Pero esto es recién la primera parte</p>
+    <p>Ahora para continuar el puzzle ingresá al siguiente link</p>
+    <a href="https://tu-link-aqui.com" target="_blank" class="end-link"> <!-- CAMBIAR -->
+      Link al siguiente puzzle
+    </a>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
