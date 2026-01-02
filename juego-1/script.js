@@ -46,7 +46,7 @@ const clues = {
   "Q->B": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
 
   // Ciclo G
-  "G->R": "https://youtube.com/pista_GR",
+  "G->R": "https://drive.google.com/file/d/1Fxhd0PTtWpATQ1XHZLQDHkBXOlFgIN0O/view?usp=drivesdk",
   "R->I": "https://drive.google.com/file/d/1q9l1wMQPAqOPh9Ic6IYKuf6uAAvMfuMQ/view?usp=drivesdk",
   "I->S": "https://drive.google.com/file/d/1GbQw5JLorfpCk-Vw16jcS5JVl4p1oIiQ/view?usp=drivesdk",
   "S->G": "https://drive.google.com/file/d/1IRKYpYnoBsd3mFnoUTg-LR8LsEVMgYbf/view?usp=drivesdk",
