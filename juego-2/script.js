@@ -32,7 +32,7 @@ const correctNumbers = {
 /* 🔍 PISTAS  CAMBIAR PISTAS */
 const numberClues = {
   A: "https://drive.google.com/file/d/1JLyvj_PmoVyNxXvwoRZBH9j3Om1eHXZX/view?usp=drivesdk",
-  B: "https://youtube.com/pista_B2",
+  B: "https://drive.google.com/file/d/1aRubo5K6Zh1QdTtrfsT_kH_5Cow4K5qk/view?usp=drivesdk",
   C: "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
   D: "https://drive.google.com/file/d/1FnaItyBrUXOad5E9j8oGppScLjFxUZ-u/view?usp=drivesdk",
   E: "https://drive.google.com/file/d/1Yz5xm2MbkSHNGho9UgmIUHG6VUinGNiC/view?usp=drivesdk",
