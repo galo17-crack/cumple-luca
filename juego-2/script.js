@@ -31,7 +31,7 @@ const correctNumbers = {
 
 /* 🔍 PISTAS  CAMBIAR PISTAS */
 const numberClues = {
-  A: "https://youtube.com/pista_A1",
+  A: "https://drive.google.com/file/d/1JLyvj_PmoVyNxXvwoRZBH9j3Om1eHXZX/view?usp=drivesdk",
   B: "https://youtube.com/pista_B2",
   C: "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
   D: "https://drive.google.com/file/d/1FnaItyBrUXOad5E9j8oGppScLjFxUZ-u/view?usp=drivesdk",
@@ -40,7 +40,7 @@ const numberClues = {
   G: "https://drive.google.com/file/d/1x8Pq9qFfiLa0iYGOLTD6YxF_zZGFwQx1/view?usp=drivesdk",
   H: "https://drive.google.com/file/d/1dj_pMi2w-ykm7hFRw3eGyfYl48VnJG94/view?usp=drivesdk",
   I: "https://drive.google.com/file/d/1I6DbmuKvo61Pdgb1YxRzhQWinRzk4mK1/view?usp=drivesdk",
-  J: "https://youtube.com/pista_J10",
+  J: "https://drive.google.com/file/d/1EzeELz4LPsPChn-4xp7u7cQ4OsA3uLZE/view?usp=drivesdk",
   K: "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
   L: "https://drive.google.com/file/d/1QP_vha0TkFmTITDzMgi2NXk5Qya6BFEi/view?usp=drivesdk",
   M: "https://drive.google.com/file/d/1MDrINCvCBQuHCYJMdvlaCf1mYGCFYcUd/view?usp=drivesdk",
