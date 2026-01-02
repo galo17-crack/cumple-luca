@@ -33,9 +33,9 @@ const clues = {
   // Ciclo C
   "C->M": "https://drive.google.com/file/d/1tjtW1I3bwKx-6MOP0OqvC77DKf0ClSKD/view?usp=drivesdk",
   "M->N": "https://drive.google.com/file/d/14OLreQs0z0TGAP_Llk1c30qvCY8dzNoc/view?usp=drivesdk",
-  "N->O": "https://youtube.com/pista_NO",
+  "N->O": "https://drive.google.com/file/d/1nqNov1Sso1PIprziW9tBi7CNHxF0tECg/view?usp=drivesdk",
   "O->P": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
-  "P->T": "https://youtube.com/pista_PT",
+  "P->T": "https://drive.google.com/file/d/1tqyfmpdI0mIhtAgVFiPHredk7wa530hE/view?usp=drivesdk",
   "T->C": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
 
   // Ciclo B
