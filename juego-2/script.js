@@ -51,7 +51,7 @@ const numberClues = {
   R: "https://youtube.com/pista_R18",
   S: "https://youtube.com/pista_S19",
   T: "https://drive.google.com/file/d/1R5kud4p76BaVvS6Q_kFWrdoT_mqr_8lL/view?usp=drivesdk",
-  U: "https://youtube.com/pista_U21"
+  U: "https://drive.google.com/file/d/1ihDQiizyRCMF9bJ8teSC4BgvNWgVxjrJ/view?usp=drivesdk"
 };
 
 const playArea = document.getElementById("play-area");
