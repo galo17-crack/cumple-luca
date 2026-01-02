@@ -49,7 +49,7 @@ const clues = {
   "G->R": "https://youtube.com/pista_GR",
   "R->I": "https://drive.google.com/file/d/1q9l1wMQPAqOPh9Ic6IYKuf6uAAvMfuMQ/view?usp=drivesdk",
   "I->S": "https://drive.google.com/file/d/1GbQw5JLorfpCk-Vw16jcS5JVl4p1oIiQ/view?usp=drivesdk",
-  "S->G": "https://youtube.com/pista_SG",
+  "S->G": "https://drive.google.com/file/d/1IRKYpYnoBsd3mFnoUTg-LR8LsEVMgYbf/view?usp=drivesdk",
 
   // Auto conexión
   "U->U": "https://youtube.com/pista_UU"
