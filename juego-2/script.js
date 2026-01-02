@@ -5,11 +5,29 @@ const letters = [
 
 /* 🔢 NÚMEROS CORRECTOS, CAMBIAR */
 const correctNumbers = {
-  A:1, B:2, C:3, D:4, E:5, F:6, G:7,
-  H:8, I:9, J:10, K:11, L:12, M:13,
-  N:14, O:15, P:16, Q:17, R:18,
-  S:19, T:20, U:21
+  A: 8,
+  B: 19,
+  C: 17,
+  D: 14,
+  E: 16,
+  F: 1,
+  G: 10,
+  H: 5,
+  I: 12,
+  J: 7,
+  K: 18,
+  L: 3,
+  M: 9,
+  N: 21,
+  O: 20,
+  P: 13,
+  Q: 15,
+  R: 2,
+  S: 6,
+  T: 13,
+  U: 4
 };
+
 
 /* 🔍 PISTAS  CAMBIAR PISTAS */
 const numberClues = {
