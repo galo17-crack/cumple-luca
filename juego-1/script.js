@@ -24,26 +24,26 @@ const currentClue = document.getElementById("current-clue");
 const cluesList = document.getElementById("clues-list");
 const clues = {
   // Ciclo A
-  "A->D": "https://youtube.com/pista_AD",
-  "D->H": "https://youtube.com/pista_DH",
-  "H->J": "https://youtube.com/pista_HJ",
-  "J->L": "https://youtube.com/pista_JL",
-  "L->A": "https://youtube.com/pista_LA",
+  "A->D": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "D->H": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "H->J": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "J->L": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "L->A": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
 
   // Ciclo C
   "C->M": "https://drive.google.com/file/d/1tjtW1I3bwKx-6MOP0OqvC77DKf0ClSKD/view?usp=drivesdk",
   "M->N": "https://drive.google.com/file/d/14OLreQs0z0TGAP_Llk1c30qvCY8dzNoc/view?usp=drivesdk",
   "N->O": "https://youtube.com/pista_NO",
-  "O->P": "https://youtube.com/pista_OP",
+  "O->P": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
   "P->T": "https://youtube.com/pista_PT",
-  "T->C": "https://youtube.com/pista_TC",
+  "T->C": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
 
   // Ciclo B
-  "B->E": "https://youtube.com/pista_BE",
-  "E->F": "https://youtube.com/pista_EF",
-  "F->K": "https://youtube.com/pista_FK",
-  "K->Q": "https://youtube.com/pista_KQ",
-  "Q->B": "https://youtube.com/pista_QB",
+  "B->E": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "E->F": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "F->K": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "K->Q": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
+  "Q->B": "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
 
   // Ciclo G
   "G->R": "https://youtube.com/pista_GR",
