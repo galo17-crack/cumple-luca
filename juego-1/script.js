@@ -31,8 +31,8 @@ const clues = {
   "L->A": "https://youtube.com/pista_LA",
 
   // Ciclo C
-  "C->M": "https://youtube.com/pista_CM",
-  "M->N": "https://youtube.com/pista_MN",
+  "C->M": "https://drive.google.com/file/d/1tjtW1I3bwKx-6MOP0OqvC77DKf0ClSKD/view?usp=drivesdk",
+  "M->N": "https://drive.google.com/file/d/14OLreQs0z0TGAP_Llk1c30qvCY8dzNoc/view?usp=drivesdk",
   "N->O": "https://youtube.com/pista_NO",
   "O->P": "https://youtube.com/pista_OP",
   "P->T": "https://youtube.com/pista_PT",
@@ -47,8 +47,8 @@ const clues = {
 
   // Ciclo G
   "G->R": "https://youtube.com/pista_GR",
-  "R->I": "https://youtube.com/pista_RI",
-  "I->S": "https://youtube.com/pista_IS",
+  "R->I": "https://drive.google.com/file/d/1q9l1wMQPAqOPh9Ic6IYKuf6uAAvMfuMQ/view?usp=drivesdk",
+  "I->S": "https://drive.google.com/file/d/1GbQw5JLorfpCk-Vw16jcS5JVl4p1oIiQ/view?usp=drivesdk",
   "S->G": "https://youtube.com/pista_SG",
 
   // Auto conexión
