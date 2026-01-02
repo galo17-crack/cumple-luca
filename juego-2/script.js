@@ -48,7 +48,7 @@ const numberClues = {
   O: "https://drive.google.com/file/d/1f7PKbajdwpXlY5dlscHFhmb7oU0egBJR/view?usp=drivesdk",
   P: "https://drive.google.com/file/d/1bSGA_X9mj6dwf3sesNcobKCEf7aBIHQY/view?usp=drivesdk",
   Q: "https://youtube.com/pista_Q17",
-  R: "https://youtube.com/pista_R18",
+  R: "https://drive.google.com/file/d/1hDdNhmnDdcnHhjniIQPAJLBXdlSLumaQ/view?usp=drivesdk",
   S: "https://drive.google.com/file/d/1heEL9iFK3_Lz_WJldZCIjBn96aKLfLBr/view?usp=drivesdk",
   T: "https://drive.google.com/file/d/1R5kud4p76BaVvS6Q_kFWrdoT_mqr_8lL/view?usp=drivesdk",
   U: "https://drive.google.com/file/d/1ihDQiizyRCMF9bJ8teSC4BgvNWgVxjrJ/view?usp=drivesdk"
