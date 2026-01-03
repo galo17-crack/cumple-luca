@@ -52,7 +52,7 @@ const clues = {
   "S->G": "https://drive.google.com/file/d/1IRKYpYnoBsd3mFnoUTg-LR8LsEVMgYbf/view?usp=drivesdk",
 
   // Auto conexión
-  "U->U": "https://youtube.com/pista_UU"
+  "U->U": "https://drive.google.com/file/d/1CJaxEQ6KfuJgs569DGORIAYNTUrLOOVb/view?usp=drivesdk"
 };
 
 
